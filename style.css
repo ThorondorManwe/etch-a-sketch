@@ -8,8 +8,8 @@
 
 #mainContainer {
     margin: auto;  /* La otra opción para centrarlo es con flexbox, pero ahora funciona bien*/
-    width: 960px;
-    height: 960px;
+    width: 640px;
+    height: 640px;
     border: 2px solid green;
     display: flex;
     flex-wrap: wrap;
