@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(33, 165, 218);
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+#mainContainer {
+    margin: auto;  /* La otra opción para centrarlo es con flexbox, pero ahora funciona bien*/
+    width: 960px;
+    height: 960px;
+    border: 2px solid green;
+    display: flex;
+    flex-wrap: wrap;
+}
